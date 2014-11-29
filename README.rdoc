@@ -1,24 +1,15 @@
-=== Middleman Backbone React Template
+== React Animations Screencast
 
-Middleman template with backbone, react, slim, sass, bower, and bootstrap.
+Blog post: http://www.openmindedinnovations.com/blogs/react-animations-with-react-tweenstate
 
-Screencast on the template: https://www.youtube.com/watch?v=iul1fWHVU6A
+This is the code for the screencast showing how to use animations with React. I used the [react-tween-state](https://github.com/chenglou/react-tween-state) library.
 
-I am using backbone-react-component to handle data for react,
-https://github.com/magalhas/backbone-react-component
+video: http://youtu.be/9cY8-xCfU9E
 
-React is written in coffeescript, there's an example in the post_list component.
+github: https://github.com/openmindedinnovations/react_animations_screencast
 
-Bootstrap is setup to be easily customizable using boostrap variables.
+react-tween-state: https://github.com/chenglou/react-tween-state
 
-An exmample post model and collection have been setup to show a complete interaction of all the libraries. Jsonplaceholder is used for fake API data, but can easily be replaced with any restful API. Be careful with wrapped APIs (rails) because backbone expects unwrapped data and submits unwrapped data. 
+React: http://facebook.github.io/react/
 
-=== Setup
-
-git clone https://github.com/jbhatab/middleman-backbone-react-template.git
-
-bundle install
-
-bower install
-
-middleman server
+Middleman: http://middlemanapp.com/
